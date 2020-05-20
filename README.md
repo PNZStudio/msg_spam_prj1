@@ -6,6 +6,6 @@ https://www.wikihow.com/Activate-2-Step-Verification-in-Facebook
 
 ### Installation
 ```sh
-$ npm install -d
+$ npm install
 $ node index.js
 ```
